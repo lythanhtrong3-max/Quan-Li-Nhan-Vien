@@ -12,8 +12,8 @@ Tên đề tài: Xây dựng phần mềm Quản Lý Nhân Viên
 ## 3. Phân công công việc
 | Thành viên | Công việc |
 |------------|-----------|
-| Lý Thanh Trọng| Thiết kế giao diện và Lập trình chức năng và kiểm thử | |
-| Trần Hoài Linh | Xây dựng cơ sở dữ liệu |
+| Lý Thanh Trọng|  Quản lý GitHub, README, giao diện và Cơ sở dữ liệu SQL.  |
+| Trần Hoài Linh | Chức năng thêm/xóa nhân viên.|
 ## 4. Công nghệ sử dụng
 - Ngôn ngữ: C#
 - Framework: .NET Framework
